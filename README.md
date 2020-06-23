@@ -1,6 +1,6 @@
 # codewayy_python_series
 Heyy!
-My name is Amisha Chauhan. I am frist year BTech CSE student at Amity University, Noida.
+My name is Amisha Chauhan. I am first year BTech CSE student at Amity University, Noida.
 
 This repository contains all the tasks of **Python Series** by Codewayy
 
