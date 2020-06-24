@@ -1,0 +1,19 @@
+#TASK-2
+
+A) WHY IS LIST USED?
+ANS: List are created because:
+     -List can have any number of items and they may be of different types (integer, float, string etc.).
+     -Lists are mutable unlike tuples that means the elements of the list can be changed.
+
+B) HOW DO LISTS AND SETS DIFFER?
+ANS: SETS:-Set is unordered. 
+          -You can not refer to individual elements using an index
+          -A set does not support slicing.
+          -Set has no duplicates. 
+     
+     LIST:-A list is ordered
+          -A list supports slicing.
+          -List can have duplicates.
+
+C) APPLICATION OF DICTIONARIES WITH A REAL WORLD EXAMPLE.
+ANS: Dictionary can be used to track the details of a product.Like car, dictionary can have its model, price, date of manufacture etc as the key. 
