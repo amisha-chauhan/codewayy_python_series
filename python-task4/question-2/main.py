@@ -7,16 +7,29 @@ import strings
 import operators
 
 #calling function of lists
-myList = (int(input("enter the elements of list: ")))
+#square
+x = int(input("enter the number of which square is to be calculated: "))
+
 list.func_square(x)
+
+#list
+myList = [1, 4, 6, 9, 10]
+
+#maximum and minimum
 list.func_minMax(myList)
-list.func_sum(myList)
 print()
+
+#sum of elements
+list.func_sum(myList)
+
 
 #calling function of string
 myString = input("enter the string")
-strings.func_string()
-print()
+
+strings.func_midChar(myString)
+strings.func_vowel(myString)
+strings.func_letter(myString)
+
 
 #calling functions of operators
 x = int(input("enter the first number: "))
